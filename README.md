@@ -1,15 +1,14 @@
 # Accutane Pill Tracker
 
-This Python script calculates how many Accutane pills should be left in your box based on your prescribed dosage and start date.
+I created this Python script calculates how many Accutane pills should be left in my box so I did not miss days.
 
 ## Features
 
 - Calculates remaining pills based on start date, daily dosage, and total prescribed pills.
-- Provides a reminder to refill your prescription when pills are running low.
 
 ## Usage
 
-Clone the repository and run the script. Enter your start date (YYYY-MM-DD), daily dosage (number of pills/day), and total pills prescribed. The script will calculate remaining pills and remind you to refill if necessary.
+Clone the repository and run the script.
 
 ## Example
 
