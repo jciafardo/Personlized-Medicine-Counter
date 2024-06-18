@@ -4,7 +4,7 @@ todo = ['walk dog', 'chores']
 
 items = {
              'jacks list': ['walk dog', 'chores', 'do sum'],
-             'bobs list': ['beat dick',  'slow roll',  'something else']
+             'bobs list': ['walk the horse',  'another task ',  'something else']
 }
 
 other_items = {
