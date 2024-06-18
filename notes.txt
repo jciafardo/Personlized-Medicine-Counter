@@ -1,0 +1,10 @@
+program will start with a hardcoded starting date I will get that manually (4th of jan)
+
+will have a variable that counts how many pills should have been taken (counting the day of)
+
+program will go from the day of all the way down till the starting date.
+
+start off by adding 2 and then 1 and just go back and forth. Since if i go by date(ex: 1st = 1 pill, 4th  2 pills). I will run into
+problems when a month has 31 days .
+
+
